@@ -6,15 +6,15 @@ The topic I chose for this project is environment because I was always intereste
 
 I have not fully done my research but some sources I have found for my topic are [What are environmental issues](https://www.ibm.com/topics/environmental-issues) by Amanda Mcgrath and another source is [The Effects of Climate Change](https://science.nasa.gov/climate-change/effects/)
 
-##Engineering Design Project
+## Engineering Design Project
 Currently I'm on the first step of determining the problem and second step which is researching. Determining the problem was choosing what were most passionate about and starting to do research on our topics. I might be on step 2 for a while because of the amount of research I have to do in order to create the project. 
 
-##Skills
+## Skills
 One skill I have is time management. Currently I am attening global alliance and culture,crochet and heart of action club and I manage to balance out all the clubs I am in along with all my assignments. No matter how tired I am I make sure to turn in all of my assignments on time and study if I have to. All my extracurriculars do not affect my grades because I never have missing assignments and maintain a high average
 
 Another skill I have is organization since in the past I don't always do what I need to do except homework on time. This year I have organized all my emails based on school and personal stuff. Also I write a to-do list of everything I have to accomplish throughout the days and the weekends. My emails are labled and almost all my days are fulled with tasks needed to be fulfilled. 
 
-##Summary
+## Summary
 So I'm really excited about this project and I hope this research will be fun especially this project even though it seems like a lot it's gonna be fun to do. 
 
 [Next](entry02.md)
