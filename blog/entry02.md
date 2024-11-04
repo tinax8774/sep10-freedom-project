@@ -9,7 +9,13 @@ Some of the software websites I have found are [Forest Monitoring Designed for A
 
 ### Hardware
 [How to make a DIY solar oven](https://www.homesciencetools.com/article/how-to-build-a-solar-oven-project/?srsltid=AfmBOooKn_ikQrPyia57a269EgVP5m6uj0HrLuN2CDrjfqIURFYTpyZh)
+
+
 [EDYN garden sensor](https://www.wevolver.com/specs/edyn.garden.sensor)
+
+
 [Top 20 Zero Waste Products for Home](https://www.loopify.world/blog/post/zero-waste-products)
+
+
 [The Impact of Smart Recycling: How Technology is Revolutionizing Waste Management](https://www.smartsortai.com/the-impact-of-smart-recycling-how-technology-is-revolutionizing-waste-management/#:~:text=By%20efficiently%20sorting%20and%20separating,associated%20with%20extraction%20and%20production.)
 
