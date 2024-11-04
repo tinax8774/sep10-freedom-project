@@ -8,6 +8,8 @@ It's been a while since entry 1 and lately we have started researching recent te
 Some of the software websites I have found are [Forest Monitoring Designed for Action](https://www.globalforestwatch.org/), [Forestry app 101:Creating a Forest monitoring app](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests), [Decarbonization requires comprehensive electricity and certificate management](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests), [Adaptation Components of NDCs: A Global Perspective for Countries](https://www.wri.org/events/2022/8/adaptation-components-ndcs-global-perspective-countries), [What are environmental issues?](https://www.ibm.com/topics/environmental-issues). Most of these links include the diffferent apps that can measure mostly the trees in the forest as deforestation is a huge problem especiallly since people cut down trees to get more space in order to create more space for living. With these tracking items it can track trees in order ot be able to prevent the world from e
 
 ### Hardware
-
-
+[How to make a DIY solar oven](https://www.homesciencetools.com/article/how-to-build-a-solar-oven-project/?srsltid=AfmBOooKn_ikQrPyia57a269EgVP5m6uj0HrLuN2CDrjfqIURFYTpyZh)
+[EDYN garden sensor](https://www.wevolver.com/specs/edyn.garden.sensor)
+[Top 20 Zero Waste Products for Home](https://www.loopify.world/blog/post/zero-waste-products)
+[The Impact of Smart Recycling: How Technology is Revolutionizing Waste Management](https://www.smartsortai.com/the-impact-of-smart-recycling-how-technology-is-revolutionizing-waste-management/#:~:text=By%20efficiently%20sorting%20and%20separating,associated%20with%20extraction%20and%20production.)
 
