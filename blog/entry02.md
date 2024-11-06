@@ -9,19 +9,19 @@ Some of the software websites I have found are:
 
 [Forest Monitoring Designed for Action](https://www.globalforestwatch.org/) 
 
-*This app shows the amount of trees being cut down over time. 
-* They have monitored over 840 million hectares of forest.
+1. This app shows the amount of trees being cut down over time. 
+2. They have monitored over 840 million hectares of forest.
 [Forestry app 101:Creating a Forest monitoring app](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests)
 
-*It talks about foreset monitoring and and works with global forest watch
-*Also tracks the amount of trees left in the forest.
-*Easy to use
+1. It talks about foreset monitoring and and works with global forest watch
+2. Also tracks the amount of trees left in the forest.
+3. Easy to use
 
 [Decarbonization requires comprehensive electricity and certificate management](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests)
 
-*It tracks the amount of energy being used
-*Results can come 24/7
-*Demonstate the impact people have on the environment.
+1.It tracks the amount of energy being used
+2.Results can come 24/7
+3. Demonstate the impact people have on the environment.
 
 [Adaptation Components of NDCs: A Global Perspective for Countries](https://www.wri.org/events/2022/8/adaptation-components-ndcs-global-perspective-countries)
 
