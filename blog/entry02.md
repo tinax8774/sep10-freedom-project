@@ -33,7 +33,7 @@ Some of the software websites I have found are:
 1. It talks about the issues in society today
 2. Shows increase in greenhouse gasses
 
-Most of these links include the diffferent apps that can measure mostly the trees in the forest as deforestation is a huge problem especiallly since people cut down trees to get more space in order to create more space for living. With these tracking items it can track trees in order ot be able to prevent the world from e
+Most of these links include the diffferent apps that can measure mostly the trees in the forest as deforestation is a huge problem especiallly since people cut down trees to get more space in order to create more space for living. With these tracking items it can track trees in order ot be able to prevent the world from deforestation.
 
 ### Hardware
 
