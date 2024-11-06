@@ -19,15 +19,14 @@ Some of the software websites I have found are:
 3. Easy to use
 
 [Decarbonization requires comprehensive electricity and certificate management](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests)
-
-1.It tracks the amount of energy being used
-2.Results can come 24/7
-3. Demonstate the impact people have on the environment.
+1. It talks about forest monitoring and works with global forest watch
+2. Also tracks the amount of trees are left in forests
+3. Easy to use
 
 [Adaptation Components of NDCs: A Global Perspective for Countries](https://www.wri.org/events/2022/8/adaptation-components-ndcs-global-perspective-countries)
 
-*Gives informatioin about the environmental issues inn the world
-*Gives info of how to adopt to the changing environmennt on the world
+1. Gives information abou tht enevironmnetnal issues in the world
+2. Gives info of how to adapt to the changing environment on the world
 
 [What are environmental issues?](https://www.ibm.com/topics/environmental-issues).
 
