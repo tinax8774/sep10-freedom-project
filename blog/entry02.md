@@ -1,4 +1,4 @@
-.# Entry 2: Researching Software and Hardware
+# Entry 2: Researching Software and Hardware
 ##### 11/04/2024
 
 ## Context
