@@ -23,7 +23,7 @@ My ideas:
    * When they see a piece of plastic a person can control the drone and have it pick it up and get rid of it.
 
   For my first idea one of the things that made me interested in that potential device is from this image:
-  
+  [Smart devices](https://gettecla.com/cdn/shop/articles/583690618_612x389.jpg?v=1511367361)
 
 ### Engineerying Design process
 Currently we are on the third step which is brainstorming ideas as seen with the title of this blog of brainstorming new topics. Although this has been the most fun part it was hard to come up with ideas. The next steps will probably be to continue doing our research for our project and prepping to code when we get to that point in the project. 
