@@ -31,6 +31,7 @@ My ideas:
 For my fifth idea I found an image online that made me think about it which is:
 
 [Drones carrying things](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlv_7b92LwRtafseUWC6CMmsooR3mWa3NYw&s)
+
 This photo is pretty much showing a drone that is carrying things but what if we can program the drones to detect plastic in the ocean and go down to pick up the plastic so we could still protect our ocean. 
 
 ### Engineering Design process
