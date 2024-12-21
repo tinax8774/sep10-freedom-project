@@ -20,14 +20,19 @@ My ideas:
    * Instead of using a normal water purifier that needs electricity to work it can just work off solar power
 * Fifth Idea: A drone that can cleanup plastic in the ocean
    * As currently there are plastic in the ocean which is causing problems for animals so if the drone can pick up the plastic so people don’t have to worry about it
-   * When they see a piece of plastic a person can control the drone and have it pick it up and get rid of it. 
+   * When they see a piece of plastic a person can control the drone and have it pick it up and get rid of it.
+
+  For my first idea one of the things that made me interested in that potential device is from this image:
+  
 
 ### Engineerying Design process
-
+Currently we are on the third step which is brainstorming ideas as seen with the title of this blog of brainstorming new topics. Although this has been the most fun part it was hard to come up with ideas. The next steps will probably be to continue doing our research for our project and prepping to code when we get to that point in the project. 
 ### Skills
+One of the skills I have developed with this project is time management because I am so used to doing all of my work last minute but still sometimes I still do that but not as much as the past. Both this class and the project has made me realize that I need to make more time to do all of my work before anything else and to finish everything on time. 
 
+Another skill is creativity becacuse something I have really not thought of is potential future inventions and it was fun to come up with some ideas that have never existed. I was never someone who had interested in making something creative but this project definitely has changed my perspective. 
 ### Next Steps
-Text
+The next steps would be to finish our Part B research and prepping ofr the actual code writing of the main projects in the upcoming semester. Although there is still so much to do in six months but it will be fun and productive time and this will definitelly be intersting. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
