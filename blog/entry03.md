@@ -1,4 +1,4 @@
-# Entry 3
+# Entry 3: Brainstorm ideas
 ##### 12/18/2024
 
 ### Brainstorming new technology for my topic
