@@ -23,7 +23,7 @@ My ideas:
    * When they see a piece of plastic a person can control the drone and have it pick it up and get rid of it.
 
   For my first idea one of the things that made me interested in that potential device is from this image:
-  
+
   [Smart devices](https://gettecla.com/cdn/shop/articles/583690618_612x389.jpg?v=1511367361)
 
   Obviously this is a smart device that is used inside of the household but maybe it can be used for other things that aren't just in the house and maybe just things in nature.
@@ -32,13 +32,17 @@ For my fifth idea I found an image online that made me think about it which is:
 
 [Drones carrying things](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlv_7b92LwRtafseUWC6CMmsooR3mWa3NYw&s)
 
-This photo is pretty much showing a drone that is carrying things but what if we can program the drones to detect plastic in the ocean and go down to pick up the plastic so we could still protect our ocean. 
+This photo is pretty much showing a drone that is carrying things but what if we can program the drones to detect plastic in the ocean and go down to pick up the plastic so we could still protect our ocean.
 
 ### Engineering Design process
-Currently we are on the third step which is brainstorming ideas as seen with the title of this blog of brainstorming new topics. Although this has been the most fun part it was hard to come up with ideas. The next steps will probably be to continue doing our research for our project and prepping to code when we get to that point in the project. 
+Currently we are on the third step which is brainstorming ideas as seen with the title of this blog of brainstorming new topics. Although this has been the most fun part it was hard to come up with ideas. The next steps will probably be to continue doing our research for our project and prepping to code when we get to that point in the project.
 ### Skills
-One of the skills I have developed with this project is time management because I am so used to doing all of my work at the last minute but sometimes I still do that but not as much as in the past. Both this class and the project has made me realize that I need to make more time to do all of my work before anything else and to finish everything on time. 
+One of the skills I have developed with this project is time management because I am so used to doing all of my work at the last minute but sometimes I still do that but not as much as in the past. Both this class and the project has made me realize that I need to make more time to do all of my work before anything else and to finish everything on time.
 
-Another skill is creativity because something I have really not thought of is potential future inventions and it was fun to come up with some ideas that have never existed. I was never someone who had interest in making something creative but this project definitely has changed my perspective. 
+Another skill is creativity because something I have really not thought of is potential future inventions and it was fun to come up with some ideas that have never existed. I was never someone who had interest in making something creative but this project definitely has changed my perspective.
 ### Next Steps
-The next steps would be to finish our Part B research and prepare for the actual code writing of the main projects in the upcoming semester. Although there is still so much to do in six months, it will be a fun and productive time and this will definitely be interesting. 
+The next steps would be to finish our Part B research and prepare for the actual code writing of the main projects in the upcoming semester. Although there is still so much to do in six months, it will be a fun and productive time and this will definitely be interesting.
+
+[Previous](entry02.md) | [Next](entry04.md)
+
+[Home](../README.md)

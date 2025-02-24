@@ -2,14 +2,14 @@
 ##### 11/04/2024
 
 ## Context
-It's been a while since entry 1 and lately we have started researching recent technology on our topic. Over the past couple of weeks we had started doing research on our topics and lately it has been on hardware and software. Throughout the past few weeks we have been learning about CSS by FCC to help us learn. CSS is going to be really useful while coding our websites once we reach that step. As my topic for my freedom project is on the environment there are many components to the topic so I had to find mostly reliable sources as there are many ideas on the topic. Most of my software websites mostly have to do with monitoring the forest and tracking deforestation over the past few years in our world. Hardware has mostly included things that are beneficial for the environment and prevent things including global warming, deforestation and many other ways you could help improve the world that you are living in today. In this blog I will talk about some of the websites that I have found about the topic of environment. 
+It's been a while since entry 1 and lately we have started researching recent technology on our topic. Over the past couple of weeks we had started doing research on our topics and lately it has been on hardware and software. Throughout the past few weeks we have been learning about CSS by FCC to help us learn. CSS is going to be really useful while coding our websites once we reach that step. As my topic for my freedom project is on the environment there are many components to the topic so I had to find mostly reliable sources as there are many ideas on the topic. Most of my software websites mostly have to do with monitoring the forest and tracking deforestation over the past few years in our world. Hardware has mostly included things that are beneficial for the environment and prevent things including global warming, deforestation and many other ways you could help improve the world that you are living in today. In this blog I will talk about some of the websites that I have found about the topic of environment.
 
 ### Software
 Some of the software websites I have found are:
 
-[Forest Monitoring Designed for Action](https://www.globalforestwatch.org/) 
+[Forest Monitoring Designed for Action](https://www.globalforestwatch.org/)
 
-1. This app shows the amount of trees being cut down over time. 
+1. This app shows the amount of trees being cut down over time.
 2. They have monitored over 840 million hectares of forest.
 
 [Forestry app 101:Creating a Forest monitoring app](https://3sidedcube.com/projects/a-conservation-app-to-save-our-forests)
@@ -57,7 +57,7 @@ Most of these links include the different apps that can measure mostly the trees
 
 1. Shows things that consume less energy than others
 2. Most of these items are located in a normal household.
-   
+
 [The Impact of Smart Recycling: How Technology is Revolutionizing Waste Management](https://www.smartsortai.com/the-impact-of-smart-recycling-how-technology-is-revolutionizing-waste-management/#:~:text=By%20efficiently%20sorting%20and%20separating,associated%20with%20extraction%20and%20production.)
 
 1. Helps make our world a cleaner place
@@ -65,9 +65,13 @@ Most of these links include the different apps that can measure mostly the trees
 Most of these websites show the things that can be used in daily life that doesn't have a huge impact on the environment and most of the items on the lists are beneficial in a way. Using some of these items can help make our planet a better place and a safer environment.
 
 ### Engineering Design Process
-The current step I am on is planning because currently we are gathering information on our topic and preparing for when we actually start writing the codes for the webiste. The other step we are also on is researching as we are trying to find some info we can include when making the website for the project. The next steps for this project will be to continuing doing research on our topic and learning more about coding by using FCC. 
+The current step I am on is planning because currently we are gathering information on our topic and preparing for when we actually start writing the codes for the webiste. The other step we are also on is researching as we are trying to find some info we can include when making the website for the project. The next steps for this project will be to continuing doing research on our topic and learning more about coding by using FCC.
 
 ### Skills
-I have learned how to find credible sources as in the past I don't pay much attention to the sources that I am finding but with this project I have found that some sources are more credible than others. Certain websites don't give details that can benefit research in any way. 
+I have learned how to find credible sources as in the past I don't pay much attention to the sources that I am finding but with this project I have found that some sources are more credible than others. Certain websites don't give details that can benefit research in any way.
 
-Another skill I have is time management because I have planned out everything I have to do and try to make time in my day to finish writing these blogs and balance all my other classes. Time has always been an issue while trying to complete all my work but knowing that these assignments are beneficial makes me realize that I have to finish these on time which gives me time to do other stuff after finishing writing all my homework. 
+Another skill I have is time management because I have planned out everything I have to do and try to make time in my day to finish writing these blogs and balance all my other classes. Time has always been an issue while trying to complete all my work but knowing that these assignments are beneficial makes me realize that I have to finish these on time which gives me time to do other stuff after finishing writing all my homework.
+
+[Previous](entry01.md) | [Next](entry03.md)
+
+[Home](../README.md)
