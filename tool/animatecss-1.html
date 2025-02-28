@@ -12,7 +12,7 @@
             $ npm install animate.css --save
             import 'animate.css';
 
-            .animate_animated.animate_bounce {
+            .animate__animated animate__bounce animate__repeat-2 {
                 display: inline-block;
                 margin: 0,0.5rem;
 
@@ -20,9 +20,13 @@
                 animation-duration: 2s;
                 animate-delay: 0.9s;
             }
-            .animate_animated.animate_bounce {
+            .animate__animated animate__bounce animate__repeat-2 {
                 --animation-duration: 3s;
-                
+
+            }
+            :root {
+                --animation-duration: 700ms;
+                --animate-delay: 0.8s;
             }
 
         </style>
@@ -31,7 +35,7 @@
     </head>
     <body>
         <!-- HTML -->
-        <h1 class="my-element">An animated element</h1>
+        <div class="animate__animated animate__bounce animate__repeat-2">Example</div>
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
