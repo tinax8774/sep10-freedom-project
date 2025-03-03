@@ -43,6 +43,7 @@ A skill I developed was patience as I usually don't just sit here trying to lear
 
 ### Next Steps
 In the upcoming week I will be fully trying to learn this tool and use it on the actual freedom project. Although this past month has not been easy I know it will just get better so I'm excited to continue this.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 
