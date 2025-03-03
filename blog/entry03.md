@@ -43,6 +43,8 @@ Another skill is creativity because something I have really not thought of is po
 ### Next Steps
 The next steps would be to finish our Part B research and prepare for the actual code writing of the main projects in the upcoming semester. Although there is still so much to do in six months, it will be a fun and productive time and this will definitely be interesting.
 
+
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
