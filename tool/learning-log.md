@@ -23,14 +23,14 @@
 * watch the other half of the [Animate.CSS](https://www.youtube.com/watch?v=VzbBcVRquYA&t=145s) video
     * Helped me write the code with the delay code
 * After watching the video I changed the animation and the time of the animation multiple time.
-    * `<h1 class="animate__animated animate__backInDown animate__delay-1s">Hello</h1>` was written in order to make the animation go in back then down and the delay of one second.
+    * `<h1 class="animate__animated animate__backInDown animate__delay-4s">Hello</h1>` was written in order to make the animation go in back then down and the delay of four second.
     * I can make multiple animated element in order to make them move at different ways
 * Some challenges were typing the code
     * Trying to remember spelling the name of the animation correctly
     * Remembering the closing tags of each heading
 * Next Step:
     * Continuing learning the tool
-    * Learning the other things on the website. 
+    * Learning the other things on the website.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
