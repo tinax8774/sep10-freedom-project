@@ -34,14 +34,13 @@
 
 ### 3/22/2025
 * Uses the information on the website to learn how to use animation
-    * I tried out the following CSS codes:
+    * I tried out the following CSS codes and then HTML codes:
 ``` CSS
 .animate__animated {
   --animate-duration: 5s;
 }
 ```
 
-     * And the following HTML code:
 ``` HTML
 <h1 class="animate__animated animate__backInDown animate__faster animate__infinite infinite animate__delay-4s">Hello</h1>
 ```
@@ -54,7 +53,7 @@
     * I didn't realize I could control the duration
 * Next Step:
     * Continuing to see what else I could do with it
-    * Trying out more things with it. 
+    * Trying out more things with it.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
