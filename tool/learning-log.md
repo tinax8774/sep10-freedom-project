@@ -33,7 +33,7 @@
     * Learning the other things on the website.
 
 ### 3/22/2025
-* 
+* Uses the information on the website to learn how to 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
