@@ -34,7 +34,7 @@
 
 ### 3/22/2025
 * Uses the information on the website to learn how to use animation
-    * I tried out the following CSS codes and then HTML codes:
+    * I tried out the following CSS codes and HTML codes:
 ``` CSS
 .animate__animated {
   --animate-duration: 5s;
