@@ -33,7 +33,28 @@
     * Learning the other things on the website.
 
 ### 3/22/2025
-* Uses the information on the website to learn how to 
+* Uses the information on the website to learn how to use animation
+    * I tried out the following CSS codes:
+``` CSS
+.animate__animated {
+  --animate-duration: 5s;
+}
+```
+
+     * And the following HTML code:
+``` HTML
+<h1 class="animate__animated animate__backInDown animate__faster animate__infinite infinite animate__delay-4s">Hello</h1>
+```
+* I learned how to controlt he animation
+    * I learned how to control how long the animation last
+    * I found out how to control the speed
+    * I learned how to control how many times the animation occurs
+* Some challenges were trying to control it
+    * While having it at infinite it got really annoying looking at it
+    * I didn't realize I could control the duration
+* Next Step:
+    * Continuing to see what else I could do with it
+    * Trying out more things with it. 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
