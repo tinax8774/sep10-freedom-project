@@ -76,7 +76,10 @@
 
 * I learned to use different animations
     * With this I learned how to make the words that are being animated to be a inline-block.
-    
+    * I learned how to put margins between the edge of the screen and the words.
+* There weren't much challenges this time except
+    * Trying to get the animation to work as I had a hard time figuring out the class of the animation as there was so much code piles there.
+    * Trying to figure out a perfect speed for the animation to run as sometimes it was too fast and sometimes it was way too slow. 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
