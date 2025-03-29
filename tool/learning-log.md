@@ -57,7 +57,7 @@
 
 ### 3/24/2025
 * This week I basically finished off the code that was on the website. No video was used.
-* Below was the HTML code that I used:
+    * Below was the HTML code that I used:
 ```HTML
 <h1 class="animate__animated animate__flip animate__slower animate__repeat-3 3 animate__delay-1s">Hello</h1>
 ```
@@ -71,7 +71,7 @@
   --animate-duration: 4s;
 }
 ```
-* It was used to control the 
+* It was used to control the
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
