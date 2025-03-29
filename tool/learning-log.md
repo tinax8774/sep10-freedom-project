@@ -56,7 +56,21 @@
     * Trying out more things with it.
 
 ### 3/24/2025
-* 
+* This week I basically finished off the code that was on the website. No video was used.
+* Below was the HTML code that I used:
+```HTML
+<h1 class="animate__animated animate__flip animate__slower animate__repeat-3 3 animate__delay-1s">Hello</h1>
+```
+
+* Along with the HTML code I used the following CSS code:
+```CSS
+.animate__animated {
+  display: inline-block;
+  margin: 0, 0.5rem;
+
+  --animate-duration: 4s;
+}
+```
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
