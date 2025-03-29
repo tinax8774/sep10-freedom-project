@@ -74,7 +74,9 @@
 * It was used to control the animations
 
 
-*
+* I learned to use different animations
+    * With this I learned how to make the words that are being animated to be a inline-block.
+    
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
