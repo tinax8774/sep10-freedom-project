@@ -26,7 +26,7 @@ The current step we are on is planning most likely as we are just finished learn
 
 
 ### Skills
-One skill I had was time management. With a quite stressful past month I made time to actually learn my tool and not do everything last minute. Another skill is learning on my own as this is one of the first times we had to learn a tool on our own so that was definitely new.
+One skill I had was time management. With a quite stressful past month I made time to actually learn my tool and not do everything last minute. Another skill is learning on my own as this is one of the first times we had to learn a tool on our own so that was definitely new. With not much prior knowledge this was something that was definitely a new skill and applying LOYO (learn on your own) this was a new skill that I had developed. 
 
 
 ### Next Steps
