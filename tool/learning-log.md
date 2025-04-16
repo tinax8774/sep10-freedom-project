@@ -79,7 +79,14 @@
     * I learned how to put margins between the edge of the screen and the words.
 * There weren't much challenges this time except
     * Trying to get the animation to work as I had a hard time figuring out the class of the animation as there was so much code piles there.
-    * Trying to figure out a perfect speed for the animation to run as sometimes it was too fast and sometimes it was way too slow. 
+    * Trying to figure out a perfect speed for the animation to run as sometimes it was too fast and sometimes it was way too slow.
+
+Notes:
+* `<h1 class="animate__animated animate__bounce">An animated element</h1>` is used to set a certain element to have the animation of bounce and in this case the element is a  `h1` that says An animated element.
+* `<h1 class="animate__animated animate__bounce animate__delay-2s">An animated element</h1>` is similar to the previous code but with the `animate__delay` element it causes a delay when you load the page.
+* `<h1 class="animate__animated animate__bounce animate__delay-2s animate__faster">An animated element</h1>` is used to make the animation faster than it normally is but still maintaining the delay in the animation.
+* `<h1 class="animate__animated animate__bounce animate__delay-2s animate__repeat-2">An animated element</h1>` is used to make the animation repeat twice, delay for 2 seconds and the animation is still bounce.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
