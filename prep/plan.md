@@ -25,7 +25,7 @@
 * 4/26-4/27-Start doing already existing technology section over the weekend
 * 4/28-Finish already existing technology and start new potential ideas.
 * 4/29-Continue new potential ideas section
-* 5/3 and 5/4-finish new potential ideas
+* 5/3 and 5/4-finish MVP
 
 #### MVP
 
