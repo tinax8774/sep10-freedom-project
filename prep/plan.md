@@ -21,9 +21,9 @@
 * monospace
 
 ## Timeline
-* 4/25-Do navbar and do context
-* 4/26-4/27-Start doing already existing technology section over the weekend
-* 4/28-Finish already existing technology and start new potential ideas.
+* 4/25-Do navbar
+* 4/26-4/27-Start context over the weekend
+* 4/28-Finish context and start existing things. 
 * 4/29-Continue new potential ideas section
 * 5/3 and 5/4-finish MVP
 
