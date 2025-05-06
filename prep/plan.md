@@ -52,7 +52,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Farzona  |I really liked how u included images of the environment becasue not everyone would be able to know what parts of the environmonet you could be talking about, but the images made it clear on what you're talking about.   | I think you should consider spacing out the context part so that it looks better on a desktop because you can't really see all the text on a desktop version. 
-|   |   |
+|Winnie  |I like the images you put and also these button that yout put. Its really cool how when u click on the button these info cards pop out.   |Some things you can consider is making the cards alittle more spaced out. 
 |   |   |
 |   |   |
 |   |   |
