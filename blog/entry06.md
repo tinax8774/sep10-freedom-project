@@ -12,7 +12,7 @@ For now this is done until we start beyond MVP.
 There were not that many sources that was used but I did use [bootstrap components](https://getbootstrap.com/docs/5.3/components/collapse/) and I used my [tool](https://animate.style/#best-practices) which is basically all of the sources that I used for this website.
 
 ### EDP (Engineering Design Process)
-
+We were just in step 5 as we made a prototype and the next one is 7 which is to improve it which is beyond MVP
 
 [Previous](entry05.md) | [Next](entry07.md)
 
