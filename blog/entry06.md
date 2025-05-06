@@ -14,6 +14,9 @@ There were not that many sources that was used but I did use [bootstrap componen
 ### EDP (Engineering Design Process)
 We were just in step 5 as we made a prototype and the next one is 7 which is to improve it which is beyond MVP
 
+### Skills
+Two skills I developed is time management and 
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
