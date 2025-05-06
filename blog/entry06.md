@@ -6,6 +6,8 @@ In the past month we have been coding our project by starting out with our MVP. 
 
 ![Website image](/prep/blog.png)
 
+For now this is done until we start beyond MVP
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
