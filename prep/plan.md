@@ -35,7 +35,6 @@
 ---
 
 #### Beyond MVP
-
 * Space out cards
 * Make it more responsive
 * Add more images
