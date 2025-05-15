@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Did you know that ants actually weigh more than humans on Earth.
+* Did you know that more than half of the species on Earth live underground
 
 ## Product
 * Showing my project
@@ -10,7 +10,7 @@
 * Most likely show some code snippets and parts of my website.
 
 ## Conclusion
-* Include some fun facts about the environment and tallk about some key factors that helped during the process of making this website. 
+* Include some fun facts about the environment and tallk about some key factors that helped during the process of making this website.
 
 <!-- EXAMPLE
 
