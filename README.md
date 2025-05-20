@@ -10,15 +10,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Links
 
-[Product]()
+[Product](https://tinax8774.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1-YT419ezOEkzjZ5IXaKf8Eo9za56W6TnmapehzMP36Q/edit?slide=id.g359e337d44f_0_10#slide=id.g359e337d44f_0_10)
 
 ## Implications
 ##### PROS
-*
+* Provides info
 ##### CONS
-*
+* Not informative for all people
 
 
 ## Blog
