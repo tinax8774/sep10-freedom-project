@@ -1,7 +1,8 @@
 # Entry 7
-##### X/X/XX
+##### 6/3/2025
 
-Text
+### Content
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
