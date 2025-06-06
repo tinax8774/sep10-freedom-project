@@ -16,9 +16,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* Provides info
+* As it is a project based on the environmentit helps with potential future of _environment_ based techology
+* Helps people understand more of the technology that is used to potentially help the planet.
 ##### CONS
-* Not informative for all people
+* Does not really benefit businesses unless these inventions actually does well.
+* Although these inventions are based for the inventions they don't always have a impact. 
 
 
 ## Blog
@@ -31,6 +33,4 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
+
