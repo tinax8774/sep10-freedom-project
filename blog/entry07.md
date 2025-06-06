@@ -25,6 +25,9 @@ There aren't many sources for this specific entry but one of them is [elevator p
 ### EDP(Engineering design process)
 There isn't really a EDP anymore as we are now done with the project but it would be finishing the final step which is to communicate the result as we did during the expo last week and in the showcase later this week.
 
+### Skills
+One skill is communication as during this time it was mostly presentation so we were talking to people a lot and during beyond MVP we asked peers for help of how to improve. Another skill is time management which was something I developed the entire journey of making this project as time is key. 
+
 
 ### Takeaways
 Most of my takeaways were said previously and those will be the things I will improve on as I enter my junior year and my next freedom project. This year was fun and making this project but also difficult with the challenges along the way. This is the final blog entry and I will take everything I learned this year and make my project next year better than my current one.
