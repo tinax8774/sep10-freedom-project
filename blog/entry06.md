@@ -16,7 +16,13 @@ Below is a bit of code from my project:
 
 ![Screenshot 2025-06-15 8 51 50 PM](https://github.com/user-attachments/assets/39e48201-2b9a-48f9-bcc5-66d0d134803e)
 
-The code above was used to make my Part A research which was put into crossover. Part B research was made by accordion. The context was made by cardsd and containers. 
+The code above was used to make my Part A research which was put into crossover.
+![Screenshot 2025-06-15 8 55 11 PM](https://github.com/user-attachments/assets/19af2ea0-25d4-4a17-9635-b6663443c43d)
+This was to make the context and I used my tool which was AnimateCSS for the title and cards that were put in containers to organize the cards. 
+
+
+![Screenshot 2025-06-15 8 56 47 PM](https://github.com/user-attachments/assets/276fc9a4-6dbd-49d5-9272-ae23e5007c7a)
+For Part B I used accordion in order to organize the code. 
 
 
 
