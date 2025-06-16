@@ -3,13 +3,24 @@
 
 
 ### Context
-In the past month we have been coding our project by starting out with our MVP. We have been basically writing out our website and designing it along with doing our plan and our wireframes. Some of the main challenges that I had faced while doing this website was time and the code not working. As there was a trip I did have to rush the last part of it in order to finish it. When writing my part A which is existing technology there were some problems that came up when writing the code for the carousel as sometimes it was just not working properly. When making my MVP I used a lot of HTML and some bootstrap components that included navbar, accordion, collapse, carousel and cards. Below is one piece of my project.
+In the past month we have been coding our project by starting out with our MVP. We have been basically writing out our website and designing it along with doing our plan and our wireframes. Some of the main challenges that I had faced while doing this website was time and the code not working. As there was a trip I did have to rush the last part of it in order to finish it. When writing my part A which is existing technology there were some problems that came up when writing the code for the carousel as sometimes it was just not working properly. One thing about the carousel problem was that the size of the carousel was not trying to work correctly as when I made the size smaller, the arrows that controlled the images just vanished. When making my MVP I used a lot of HTML and some bootstrap components that included navbar, accordion, collapse, carousel and cards. Below is one piece of my project.
 
 
 ![Website image](/prep/blog.png)
 
 
 For now this is done until we start beyond MVP.
+
+Below is a bit of code from my project:
+
+
+![Screenshot 2025-06-15 8 51 50 PM](https://github.com/user-attachments/assets/39e48201-2b9a-48f9-bcc5-66d0d134803e)
+
+The code above was used to make my Part A research which was put into crossover. Part B research was made by accordion. The context was made by cardsd and containers. 
+
+
+
+
 
 
 ### Sources
